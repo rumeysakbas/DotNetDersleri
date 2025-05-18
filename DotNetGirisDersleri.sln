@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek17_switchcase", "Ornek
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek18", "Ornek18\Ornek18.csproj", "{D9613DD6-B76F-417D-AABF-DD74E668DE54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek19", "Ornek19\Ornek19.csproj", "{2A499CFF-8833-41EF-9BBA-175749B613DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek19", "Ornek19\Ornek19.csproj", "{2A499CFF-8833-41EF-9BBA-175749B613DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek20", "Ornek20\Ornek20.csproj", "{C04E1CAB-1498-4048-AAE7-9AA573863582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek20", "Ornek20\Ornek20.csproj", "{C04E1CAB-1498-4048-AAE7-9AA573863582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek24", "Ornek24\Ornek24.csproj", "{A44453AC-D504-4B39-835F-68F18C506C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{C04E1CAB-1498-4048-AAE7-9AA573863582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C04E1CAB-1498-4048-AAE7-9AA573863582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C04E1CAB-1498-4048-AAE7-9AA573863582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44453AC-D504-4B39-835F-68F18C506C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44453AC-D504-4B39-835F-68F18C506C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44453AC-D504-4B39-835F-68F18C506C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44453AC-D504-4B39-835F-68F18C506C04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
